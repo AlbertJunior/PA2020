@@ -1,6 +1,7 @@
 # Lab13 Java
 
 This repository contains the compulsory and optinal part of Lab 13
+
 I can't entirely separate Compulsory and Optional parts (javadoc will be helpful with this problem)
 
 ## Compulsory + Optional Console
@@ -45,6 +46,6 @@ I can't entirely separate Compulsory and Optional parts (javadoc will be helpful
 - Localizarile disponibile sunt:
 - United Arab Emirates	العربية
 - Jordan	العربية
-..................................
+- ..................................
 - Indonesia	Bahasa Indonesia
 - United Kingdom	English

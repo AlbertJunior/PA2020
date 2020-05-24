@@ -1,7 +1,7 @@
 # Lab12 Java
 
 This repository contains 2 projects: 
-- compulsory + optional + bonus for lab 11.
+- compulsory + optional + bonus for lab 12.
 - the project for bonus part which contains an AmazingButton (I integrated this in the first project with the jar I exported)
 The repository also contains screenShot to see the GUI application + the xml representation of designPanel
 

@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.8.0_241" class="java.beans.XMLDecoder">
+ <object class="com.compulsory.DesignPanel">
+  <void method="add">
+   <object class="javax.swing.JButton" id="JButton0">
+    <string></string>
+   </object>
+  </void>
+  <void method="add">
+   <object class="javax.swing.JButton" id="JButton1">
+    <string></string>
+   </object>
+  </void>
+  <void method="add">
+   <object class="javax.swing.JButton" id="JButton2">
+    <string></string>
+   </object>
+  </void>
+  <void method="add">
+   <object class="javax.swing.JButton" id="JButton3">
+    <string></string>
+   </object>
+  </void>
+  <void property="border">
+   <object class="javax.swing.border.LineBorder">
+    <object class="java.awt.Color" id="Color0">
+     <int>0</int>
+     <int>0</int>
+     <int>0</int>
+     <int>255</int>
+    </object>
+    <int>1</int>
+    <boolean>false</boolean>
+   </object>
+  </void>
+  <void property="componentsList">
+   <object class="java.util.ArrayList">
+    <void method="add">
+     <object class="com.optional.ComponentInstance">
+      <void property="component">
+       <object idref="JButton0"/>
+      </void>
+      <void property="x">
+       <int>758</int>
+      </void>
+      <void property="y">
+       <int>311</int>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="com.optional.ComponentInstance">
+      <void property="component">
+       <object idref="JButton1"/>
+      </void>
+      <void property="x">
+       <int>440</int>
+      </void>
+      <void property="y">
+       <int>316</int>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="com.optional.ComponentInstance">
+      <void property="component">
+       <object idref="JButton2"/>
+      </void>
+      <void property="x">
+       <int>1310</int>
+      </void>
+      <void property="y">
+       <int>432</int>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="com.optional.ComponentInstance">
+      <void property="component">
+       <object idref="JButton3"/>
+      </void>
+      <void property="x">
+       <int>1301</int>
+      </void>
+      <void property="y">
+       <int>209</int>
+      </void>
+     </object>
+    </void>
+   </object>
+  </void>
+  <void property="controlPanel">
+   <object class="com.compulsory.ControlPanel">
+    <void method="add">
+     <object class="javax.swing.JButton">
+      <string>Load</string>
+     </object>
+    </void>
+    <void method="add">
+     <object class="javax.swing.JButton" id="JButton4">
+      <string>Save</string>
+      <void property="model">
+       <void property="armed">
+        <boolean>true</boolean>
+       </void>
+       <void property="pressed">
+        <boolean>true</boolean>
+       </void>
+       <void property="rollover">
+        <boolean>true</boolean>
+       </void>
+      </void>
+     </object>
+    </void>
+    <void property="border">
+     <object class="javax.swing.border.LineBorder">
+      <object idref="Color0"/>
+      <int>1</int>
+      <boolean>false</boolean>
+     </object>
+    </void>
+   </object>
+  </void>
+ </object>
+</java>
